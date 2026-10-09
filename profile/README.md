@@ -17,7 +17,6 @@ One Chrome NFT auctioned every day on Solana. The proceeds fund public-good init
 | --- | --- | --- |
 | **Smart-SSI** | Prove facts about your digital life without exposing your data (zkTLS + Solana attestations) | [smart-ssi](https://github.com/chromedao/smart-ssi) · [whitepaper](https://github.com/chromedao/smart-ssi-paper) |
 | **The Hub** | The entrance to the Chrome metaverse. A Ring opens the Holder Gate | [roadmap and feedback](https://github.com/chromedao/the-hub) · [play](https://metaverse.chromedao.xyz) |
-| **c0loria** | The game that turns your life into quests | [c0loria.com](https://www.c0loria.com) |
 
 ## Contribute
 
