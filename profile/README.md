@@ -2,7 +2,7 @@
 
 One Chrome NFT auctioned every day on Solana. The proceeds fund public-good initiatives backed by the community.
 
-**Site** [chromedao.xyz](https://www.chromedao.xyz) · **Open ledger** [chromedao.xyz/dao](https://www.chromedao.xyz/dao) · **Discord** [CHROMES DAO](https://discord.gg/7TVqQF4GH)
+**Site** [chromedao.xyz](https://www.chromedao.xyz) · **Open ledger** [chromedao.xyz/dao](https://www.chromedao.xyz/dao) · **Discord** [CHROMES DAO](https://discord.gg/3yWKxcwp7Z)
 
 ## How it works
 
